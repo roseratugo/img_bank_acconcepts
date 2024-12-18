@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Temp directories
+temp/
+tmp/
+
+# Dossiers de sortie
+IMG_BANK_*/
+output_pdfs_*/
+
+# Fichiers PDF générés
+*.pdf
+
+# MacOS
+.DS_Store
+
+# IDE/Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-*
+
+# Environment variables
+.env
+.env.*
